@@ -1,0 +1,153 @@
+.main{
+    height: 580px;
+    width: 1000px;
+    background-color: rgba(255, 255, 0, 0.025);
+}
+#heading{
+    width: 1000px;
+    height: 40px;
+    background-color: red;
+    text-align: center;
+    color:greenyellow;
+}
+#panel{
+    width: 1000px;
+    height: 40px;
+    background-color: rgb(38, 7, 117);
+    position: sticky;
+    top: 2px;
+}
+.home{
+    height: 40px;
+    width: 200px;
+    -webkit-text-fill-color: yellowgreen;
+    text-align: center;
+    float: left;
+}
+.about{
+    height: 40px;
+    width: 200px;
+    -webkit-text-fill-color: yellowgreen;
+    text-align: center;
+    float: left;
+}
+.course{
+    height: 40px;
+    width: 200px;
+    -webkit-text-fill-color: yellowgreen;
+    text-align: center;
+    float: left;
+}
+.gallery{
+    height: 40px;
+    width: 200px;
+    -webkit-text-fill-color: yellowgreen;
+    text-align: center;
+    float: left;
+}
+.contactus{
+    height: 40px;
+    width: 200px;
+    -webkit-text-fill-color: yellowgreen;
+    text-align: center;
+    float: left;
+}
+#verticalpanel{
+    height: 200px;
+    width: 1000px;
+    background-color: rgba(127, 255, 212, 0);
+}
+.img1{
+    height: 200px;
+    width: 750px;
+    float: right;
+}
+.panel2{
+    height: 200px;
+    width: 250px;
+    float: left;
+}
+#home2{
+    height: 40px;
+    width: 250px;
+    float: left;
+    background: #2eac15ee;
+    text-align: center;
+}
+#about2{
+    height: 40px;
+    width: 250px;
+    float:left;
+    background: #151aace7;
+    text-align: center;
+}
+#courses2{
+    height: 40px;
+    width: 250px;
+    float: left;
+    background: #ac9d15e7;
+    text-align: center;
+}
+#gallery2{
+    height: 40px;
+    width: 250px;
+    float: left;
+    background: #15ac75e7;
+    text-align: center;
+}
+#contact2{
+    height: 40px;
+    width: 250px;
+    float: left;
+    background: #ac1515e7;
+    text-align: center;
+}
+#client{
+    width: 1000px;
+    height: 150px;
+    background-color: aquamarine;
+    float: left;
+    text-align: center;
+}
+#imgs{
+    height: 100px;
+    width: 1000px;
+    background-color: rgb(21, 21, 13);
+}
+.img2{
+    height: 100px;
+    width: 333px;
+    float: left;
+}
+.img3{
+    height: 100px;
+    width: 333px;
+    float: left;
+}
+.img4{
+    height: 100px;
+    width: 333px;
+    float: left;
+}
+#last{
+    height: 50px;
+    width: 1000px;
+    background-color: palevioletred;
+    float: left;
+    text-align: center;
+}
+#audio1{
+    height: 100px;
+    width: 1000px;
+    align-content: center;
+}
+#web1{
+    height: 100px;
+    width: 1000px;
+    align-content: center;
+}
+.panel2:hover{
+    background : rgb(0, 115, 255);
+    color: palevioletred;
+}
+
